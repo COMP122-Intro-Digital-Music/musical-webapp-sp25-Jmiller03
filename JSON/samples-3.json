@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Angels",
+    "file": "samples/COMPSample5_Angels.mp3",
+    "bpm": "150",
+    "loop": "2m",
+    "grain": "0.081",
+    "overlap": "0.011"
+  },
+  {
+    "name": "InMyHead",
+    "file": "samples/COMPSample4_InMyHead.mp3",
+    "bpm": 120,
+    "loop": "1m",
+    "grain": "0.081",
+    "overlap": 0.01
+  },
+  {
+    "name": "ForestGarden",
+    "file": "samples/COMPsample6_ForestGarden.mp3",
+    "bpm": "105",
+    "loop": "2m",
+    "grain": "0.051",
+    "overlap": "0.001"
+  }
+]
