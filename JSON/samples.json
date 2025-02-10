@@ -8,7 +8,7 @@
     "overlap": "0.011"
   },
   {
-    "name": "InMyHead",
+    "name": "In_My_Head",
     "file": "samples/COMPSample4_InMyHead.mp3",
     "bpm": 120,
     "loop": "1m",
@@ -16,7 +16,7 @@
     "overlap": 0.01
   },
   {
-    "name": "ForestGarden",
+    "name": "Forest_Garden",
     "file": "samples/COMPsample6_ForestGarden.mp3",
     "bpm": "105",
     "loop": "2m",
