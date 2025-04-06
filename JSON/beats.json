@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Claps",
+    "pitch": "C4",
+    "pattern": "100"
+  },
+  {
+    "name": "Kick",
+    "pitch": "A#3",
+    "pattern": "1000"
+  },
+  {
+    "name": "Hi-Hat",
+    "pitch": "F4",
+    "pattern": "10"
+  },
+  {
+    "name": "Snare",
+    "pitch": "B3",
+    "pattern": "10000"
+  },
+  {
+    "name": "WhiteNoise",
+    "pitch": "D4",
+    "pattern": "100000"
+  },
+  {
+    "name": "Hi-Hat2",
+    "pitch": "F#4",
+    "pattern": "100000"
+  }
+]
