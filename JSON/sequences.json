@@ -1,1 +1,88 @@
-[]
+[
+  {
+    "name": "Forgetful Lion",
+    "loop": "1:2:1",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "F4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:0.2",
+        "pitch": "A4",
+        "dur": "16n",
+        "vel": "0.8"
+      },
+      {
+        "time": "0:0:1.0",
+        "pitch": "D5",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:2.0",
+        "pitch": "G4",
+        "dur": "16n",
+        "vel": "0.9"
+      },
+      {
+        "time": "0:0:2.3",
+        "pitch": "Bb4",
+        "dur": "8n",
+        "vel": "0.7"
+      },
+      {
+        "time": "0:0:3.1",
+        "pitch": "C5",
+        "dur": "16n.",
+        "vel": "1"
+      }
+    ]
+  },
+  {
+    "name": "Nervous Horse",
+    "loop": "1m",
+    "octave": 0,
+    "sequence": [
+      {
+        "time": "0:0:0.0",
+        "pitch": "C4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:0.3",
+        "pitch": "F4",
+        "dur": "16n",
+        "vel": "0.9"
+      },
+      {
+        "time": "0:0:1.1",
+        "pitch": "E4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:2.2",
+        "pitch": "Bb4",
+        "dur": "16n",
+        "vel": "0.8"
+      },
+      {
+        "time": "0:0:3.0",
+        "pitch": "G4",
+        "dur": "8n",
+        "vel": "1"
+      },
+      {
+        "time": "0:0:3.2",
+        "pitch": "Ab4",
+        "dur": "16n",
+        "vel": "1"
+      }
+    ]
+  }
+]
