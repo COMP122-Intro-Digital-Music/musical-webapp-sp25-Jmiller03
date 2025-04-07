@@ -1,6 +1,6 @@
 [
   {
-    "name": "Forgetful Lion",
+    "name": "ForgetfulLion",
     "loop": "1:2:1",
     "octave": 0,
     "sequence": [
@@ -43,7 +43,7 @@
     ]
   },
   {
-    "name": "Nervous Horse",
+    "name": "NervousHorse",
     "loop": "1m",
     "octave": 0,
     "sequence": [
